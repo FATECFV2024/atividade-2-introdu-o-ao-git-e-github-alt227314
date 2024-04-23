@@ -1,0 +1,6 @@
+Nome Completo;JOHNNY PEREIRA DA SILVA
+RA;2920482121039
+Idade;31
+Seu @gitHub;https://github.com/alt227314
+Seu @LinkedIn;https://www.linkedin.com/in/johnny-pereira-da-silva-32515638/
+Curso e Turma;ADS MANHÃ 4º SEMESTRE
